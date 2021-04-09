@@ -1,0 +1,4 @@
+#Mon Mar 29 17:46:12 JST 2021
+base.0=/Users/tt-murayama/development/flutter_practice/mytodoapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
